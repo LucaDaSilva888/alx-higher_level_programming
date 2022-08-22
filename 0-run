@@ -1,2 +1,2 @@
-#!/bin/sh
-python HolyGrail.py
+#!/bin/bash
+python3 $PYFILE
